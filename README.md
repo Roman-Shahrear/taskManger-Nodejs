@@ -4,5 +4,4 @@
 
 In order to run the project, setup .env and set MONGO_URI variable equal to DB connection string.
 
-In order to avoid port collisions, in the source code port value is 3000
-
+Hard port value is 3000 If you want you can also use custom port value,so if you wants to use custom value you have to go terminal and set  your PORT value
